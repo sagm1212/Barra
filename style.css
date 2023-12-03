@@ -150,7 +150,7 @@ footer .footer-card
 #img-mobile{
     display: none;
 }
-@media (max-width:300px)
+@media (max-width:500px)
 {
     #hamburguer,#close{
         display:block;
